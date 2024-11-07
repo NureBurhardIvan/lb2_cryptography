@@ -1,0 +1,6 @@
+@lb2_cryptography_HostAddress = http://localhost:5109
+
+GET {{lb2_cryptography_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
